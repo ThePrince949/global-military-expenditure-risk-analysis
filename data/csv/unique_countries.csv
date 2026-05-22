@@ -1,0 +1,171 @@
+Country,CountryID
+Costa Rica,1
+Mexico,2
+United States of America,3
+Peru,4
+Belgium,5
+Denmark,6
+France,7
+Greece,8
+Iceland,9
+Italy,10
+Luxembourg,11
+Netherlands,12
+Norway,13
+Portugal,14
+Spain,15
+Türkiye,16
+Canada,17
+Chile,18
+Australia,19
+"Korea, South",20
+United Kingdom,21
+South Africa,22
+Honduras,23
+Pakistan,24
+Sri Lanka,25
+Myanmar,26
+Poland,27
+Israel,28
+Japan,29
+El Salvador,30
+Bolivia,31
+Brazil,32
+Ecuador,33
+Germany,34
+Guatemala,35
+Venezuela,36
+Lebanon,37
+Morocco,38
+Tunisia,39
+Sudan,40
+New Zealand,41
+India,42
+Syria,43
+Ethiopia,44
+Malaysia,45
+Thailand,46
+Romania,47
+Austria,48
+Switzerland,49
+Iraq,50
+Jordan,51
+Ghana,52
+Dominican Republic,53
+Colombia,54
+Philippines,55
+Yugoslavia,56
+Finland,57
+Ireland,58
+Saudi Arabia,59
+Libya,60
+Benin,61
+Burkina Faso,62
+Madagascar,63
+Nigeria,64
+Paraguay,65
+Sweden,66
+Iran,67
+Mali,68
+Sierra Leone,69
+Somalia,70
+Togo,71
+Burundi,72
+Cote d'Ivoire,73
+Uganda,74
+Argentina,75
+Egypt,76
+Algeria,77
+"Congo, DR",78
+Kenya,79
+Guinea,80
+Liberia,81
+Malawi,82
+Zimbabwe,83
+Gabon,84
+Tanzania,85
+Laos,86
+Mauritius,87
+Nicaragua,88
+Trinidad and Tobago,89
+Hungary,90
+Cameroon,91
+"Congo, Republic",92
+Fiji,93
+Afghanistan,94
+Nepal,95
+Singapore,96
+Kuwait,97
+Bahrain,98
+Oman,99
+Uruguay,100
+Rwanda,101
+Guyana,102
+Bangladesh,103
+Indonesia,104
+Niger,105
+Papua New Guinea,106
+Lesotho,107
+Jamaica,108
+Botswana,109
+Mozambique,110
+Eswatini,111
+Angola,112
+Djibouti,113
+Senegal,114
+Qatar,115
+Belize,116
+Guinea-Bissau,117
+Chad,118
+"Gambia, The",119
+Cape Verde,120
+Zambia,121
+Brunei,122
+Mauritania,123
+Seychelles,124
+Cyprus,125
+Malta,126
+Panama,127
+Viet Nam,128
+Haiti,129
+Taiwan,130
+China,131
+Bulgaria,132
+Namibia,133
+Cambodia,134
+Czechoslovakia,135
+Yemen,136
+Central African Republic,137
+Mongolia,138
+Tajikistan,139
+Albania,140
+Croatia,141
+Slovenia,142
+Azerbaijan,143
+Eritrea,144
+Czechia,145
+Estonia,146
+Latvia,147
+Lithuania,148
+Slovakia,149
+Armenia,150
+Russia,151
+Ukraine,152
+Equatorial Guinea,153
+Kazakhstan,154
+Kyrgyz Republic,155
+Turkmenistan,156
+Uzbekistan,157
+Belarus,158
+Moldova,159
+North Macedonia,160
+Georgia,161
+Serbia,162
+United Arab Emirates,163
+Bosnia and Herzegovina,164
+Cuba,165
+Timor Leste,166
+Montenegro,167
+South Sudan,168
+Kosovo,169
+"Korea, North",170

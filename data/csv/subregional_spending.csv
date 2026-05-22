@@ -1,0 +1,452 @@
+Year,Sub-Region,subregionID,Value
+1988,North Africa,1,3.371454355
+1988,sub-Saharan Africa,2,11.7868776
+1988,Central America and the Caribbean,3,5.251968233
+1988,North America,4,841.4886226
+1988,South America,5,39.77533342
+1988,East Asia,6,74.11411862
+1988,South Asia,7,26.93598778
+1988,South East Asia,8,15.31658395
+1988,Oceania,9,16.54855363
+1988,Eastern Europe,10,282.9273256
+1988,Central and Western Europe,11,37.27471455
+1989,North Africa,1,3.519181292
+1989,sub-Saharan Africa,2,11.67338318
+1989,Central America and the Caribbean,3,5.413925798
+1989,North America,4,834.447757
+1989,South America,5,37.25888879
+1989,East Asia,6,78.59155831
+1989,South Asia,7,28.52952582
+1989,South East Asia,8,16.63967358
+1989,Oceania,9,16.29417829
+1989,Eastern Europe,10,262.3357956
+1989,Central and Western Europe,11,375.2353539
+1990,North Africa,1,3.545976833
+1990,sub-Saharan Africa,2,11.47726428
+1990,Central America and the Caribbean,3,5.123587972
+1990,North America,4,8.557816883
+1990,South America,5,32.19734332
+1990,East Asia,6,83.82956528
+1990,South Asia,7,28.15887776
+1990,South East Asia,8,18.34292193
+1990,Oceania,9,16.22534888
+1990,Eastern Europe,10,221.9323699
+1990,Central and Western Europe,11,356.3228568
+1991,North Africa,1,3.631633384
+1991,sub-Saharan Africa,2,9.624675932
+1991,Central America and the Caribbean,3,4.882778887
+1991,North America,4,77.98442364
+1991,South America,5,28.53237238
+1991,East Asia,6,86.22234517
+1991,South Asia,7,27.19973743
+1991,South East Asia,8,18.62734881
+1991,Oceania,9,16.28233276
+1991,Central and Western Europe,11,34.71423729
+1992,North Africa,1,4.169379969
+1992,sub-Saharan Africa,2,8.376637181
+1992,Central America and the Caribbean,3,5.266472397
+1992,North America,4,744.8767265
+1992,South America,5,26.65339517
+1992,Central Asia,12,1.111448815
+1992,East Asia,6,92.57369742
+1992,South Asia,7,26.84394526
+1992,South East Asia,8,19.27591442
+1992,Oceania,9,16.5497128
+1992,Eastern Europe,10,49.44777115
+1992,Central and Western Europe,11,331.5134872
+1993,North Africa,1,4.415721736
+1993,sub-Saharan Africa,2,1.375123117
+1993,Central America and the Caribbean,3,5.368948398
+1993,North America,4,75.94378657
+1993,South America,5,31.71465835
+1993,Central Asia,12,1.244993559
+1993,East Asia,6,92.68479699
+1993,South Asia,7,29.49599542
+1993,South East Asia,8,19.35497272
+1993,Oceania,9,17.61842972
+1993,Eastern Europe,10,42.96826457
+1993,Central and Western Europe,11,311.6834539
+1994,North Africa,1,4.792389855
+1994,sub-Saharan Africa,2,17.76881425
+1994,Central America and the Caribbean,3,6.2316269
+1994,North America,4,669.9275498
+1994,South America,5,33.52249774
+1994,Central Asia,12,0.789831423
+1994,East Asia,6,92.32657115
+1994,South Asia,7,29.72357727
+1994,South East Asia,8,2.971167743
+1994,Oceania,9,17.28177923
+1994,Eastern Europe,10,41.84528259
+1994,Central and Western Europe,11,36.13222874
+1995,North Africa,1,4.561374174
+1995,sub-Saharan Africa,2,8.27296518
+1995,Central America and the Caribbean,3,5.36656618
+1995,North America,4,625.9266943
+1995,South America,5,39.51853869
+1995,Central Asia,12,0.79726147
+1995,East Asia,6,94.22298256
+1995,South Asia,7,31.19399239
+1995,South East Asia,8,22.69861614
+1995,Oceania,9,16.85798955
+1995,Eastern Europe,10,28.34481544
+1995,Central and Western Europe,11,295.6786685
+1996,North Africa,1,4.851637554
+1996,sub-Saharan Africa,2,7.618884624
+1996,Central America and the Caribbean,3,5.53169168
+1996,North America,4,591.4184554
+1996,South America,5,37.48645638
+1996,Central Asia,12,0.848351237
+1996,East Asia,6,97.84488687
+1996,South Asia,7,31.55441346
+1996,South East Asia,8,23.74361371
+1996,Oceania,9,16.67314387
+1996,Eastern Europe,10,26.75578338
+1996,Central and Western Europe,11,295.3119122
+1997,North Africa,1,5.347455755
+1997,sub-Saharan Africa,2,8.232275741
+1997,Central America and the Caribbean,3,5.52625129
+1997,North America,4,587.221364
+1997,South America,5,34.29939476
+1997,Central Asia,12,0.815514973
+1997,East Asia,6,99.64398751
+1997,South Asia,7,33.73194326
+1997,South East Asia,8,25.12824336
+1997,Oceania,9,16.89445449
+1997,Eastern Europe,10,29.53336333
+1997,Central and Western Europe,11,293.7934391
+1998,North Africa,1,5.5646884
+1998,sub-Saharan Africa,2,7.92722582
+1998,Central America and the Caribbean,3,5.624582426
+1998,North America,4,574.7791259
+1998,South America,5,35.19152773
+1998,Central Asia,12,0.815131775
+1998,East Asia,6,1.744766963
+1998,South Asia,7,34.93472644
+1998,South East Asia,8,22.73149118
+1998,Oceania,9,17.57918636
+1998,Eastern Europe,10,18.33789324
+1998,Central and Western Europe,11,294.8667368
+1999,North Africa,1,5.271656547
+1999,sub-Saharan Africa,2,13.97964783
+1999,Central America and the Caribbean,3,5.856874834
+1999,North America,4,576.7958271
+1999,South America,5,32.85278244
+1999,Central Asia,12,0.686913696
+1999,East Asia,6,16.9477747
+1999,South Asia,7,39.24947595
+1999,South East Asia,8,22.35272885
+1999,Oceania,9,18.33129151
+1999,Eastern Europe,10,19.96495679
+1999,Central and Western Europe,11,298.7949737
+2000,North Africa,1,5.283543464
+2000,sub-Saharan Africa,2,11.39652999
+2000,Central America and the Caribbean,3,6.184833133
+2000,North America,4,598.2666216
+2000,South America,5,33.1735897
+2000,Central Asia,12,0.737912543
+2000,East Asia,6,19.98429117
+2000,South Asia,7,4.778849366
+2000,South East Asia,8,22.63749453
+2000,Oceania,9,18.34459788
+2000,Eastern Europe,10,26.57927385
+2000,Central and Western Europe,11,31.98956946
+2001,North Africa,1,6.738112283
+2001,sub-Saharan Africa,2,1.845295966
+2001,Central America and the Caribbean,3,6.379835578
+2001,North America,4,63.44688438
+2001,South America,5,36.16698698
+2001,Central Asia,12,1.538569512
+2001,East Asia,6,118.7738875
+2001,South Asia,7,41.99784286
+2001,South East Asia,8,22.35596889
+2001,Oceania,9,18.88217695
+2001,Eastern Europe,10,28.19738686
+2001,Central and Western Europe,11,32.98944247
+2002,North Africa,1,6.774274554
+2002,sub-Saharan Africa,2,11.76895994
+2002,Central America and the Caribbean,3,6.854636494
+2002,North America,4,675.6735719
+2002,South America,5,35.95277738
+2002,Central Asia,12,1.129135368
+2002,East Asia,6,126.5571413
+2002,South Asia,7,42.56341224
+2002,South East Asia,8,23.69299124
+2002,Oceania,9,19.49411627
+2002,Eastern Europe,10,31.13412949
+2002,Central and Western Europe,11,38.34183169
+2003,North Africa,1,6.964694892
+2003,sub-Saharan Africa,2,11.54431238
+2003,Central America and the Caribbean,3,6.312731178
+2003,North America,4,767.1525752
+2003,South America,5,33.16297267
+2003,Central Asia,12,1.324695371
+2003,East Asia,6,131.9315696
+2003,South Asia,7,43.16618345
+2003,South East Asia,8,26.79695888
+2003,Oceania,9,19.78724247
+2003,Eastern Europe,10,32.93176834
+2003,Central and Western Europe,11,314.1465923
+2004,North Africa,1,7.523544955
+2004,sub-Saharan Africa,2,11.83984596
+2004,Central America and the Caribbean,3,5.663623394
+2004,North America,4,835.3449259
+2004,South America,5,34.61244592
+2004,Central Asia,12,1.566635362
+2004,East Asia,6,139.6147283
+2004,South Asia,7,49.4492619
+2004,South East Asia,8,26.34958362
+2004,Oceania,9,2.485731586
+2004,Eastern Europe,10,34.64536519
+2004,Central and Western Europe,11,316.7163944
+2005,North Africa,1,7.825375115
+2005,sub-Saharan Africa,2,12.95253379
+2005,Central America and the Caribbean,3,5.777121549
+2005,North America,4,873.7432939
+2005,South America,5,37.58368624
+2005,Central Asia,12,1.862434498
+2005,East Asia,6,147.1851374
+2005,South Asia,7,51.82869347
+2005,South East Asia,8,26.63127974
+2005,Oceania,9,21.32627557
+2005,Eastern Europe,10,39.83758543
+2005,Central and Western Europe,11,315.9781736
+2006,North Africa,1,7.899697851
+2006,sub-Saharan Africa,2,13.97214726
+2006,Central America and the Caribbean,3,5.619816484
+2006,North America,4,886.8879128
+2006,South America,5,38.81685442
+2006,Central Asia,12,2.156332565
+2006,East Asia,6,158.5734123
+2006,South Asia,7,52.53572216
+2006,South East Asia,8,27.59541863
+2006,Oceania,9,22.2598666
+2006,Eastern Europe,10,45.24455316
+2006,Central and Western Europe,11,316.3116512
+2007,North Africa,1,8.618752733
+2007,sub-Saharan Africa,2,14.29498827
+2007,Central America and the Caribbean,3,7.677362636
+2007,North America,4,911.7324444
+2007,South America,5,41.38318166
+2007,Central Asia,12,3.148359119
+2007,East Asia,6,168.3587148
+2007,South Asia,7,53.46999216
+2007,South East Asia,8,3.859275794
+2007,Oceania,9,23.54531491
+2007,Eastern Europe,10,49.98465343
+2007,Central and Western Europe,11,321.5376442
+2008,North Africa,1,1.585252781
+2008,sub-Saharan Africa,2,15.84688826
+2008,Central America and the Caribbean,3,7.276513799
+2008,North America,4,978.1211459
+2008,South America,5,44.92538677
+2008,Central Asia,12,3.483756367
+2008,East Asia,6,178.8831967
+2008,South Asia,7,59.38849379
+2008,South East Asia,8,31.73495166
+2008,Oceania,9,24.21973797
+2008,Eastern Europe,10,54.61911268
+2008,Central and Western Europe,11,326.249144
+2009,North Africa,1,11.13372468
+2009,sub-Saharan Africa,2,16.28164452
+2009,Central America and the Caribbean,3,8.292968625
+2009,North America,4,154.3874611
+2009,South America,5,47.76766494
+2009,Central Asia,12,2.865633422
+2009,East Asia,6,24.23584118
+2009,South Asia,7,68.24394274
+2009,South East Asia,8,34.53916155
+2009,Oceania,9,26.87538333
+2009,Eastern Europe,10,55.89572654
+2009,Central and Western Europe,11,33.54626481
+2010,North Africa,1,11.86393545
+2010,sub-Saharan Africa,2,17.25324239
+2010,Central America and the Caribbean,3,8.399267212
+2010,North America,4,181.7429174
+2010,South America,5,51.45592174
+2010,Central Asia,12,3.168317598
+2010,East Asia,6,21.18892958
+2010,South Asia,7,69.15156188
+2010,South East Asia,8,35.145355
+2010,Oceania,9,26.35998544
+2010,Eastern Europe,10,56.72511769
+2010,Central and Western Europe,11,322.1462886
+2011,North Africa,1,15.48749199
+2011,sub-Saharan Africa,2,17.4346814
+2011,Central America and the Caribbean,3,8.648559752
+2011,North America,4,169.8497518
+2011,South America,5,5.348199851
+2011,Central Asia,12,3.477135888
+2011,East Asia,6,22.98589176
+2011,South Asia,7,7.266264139
+2011,South East Asia,8,35.88161165
+2011,Oceania,9,25.91614869
+2011,Eastern Europe,10,61.13446859
+2011,Central and Western Europe,11,31.93618692
+2012,North Africa,1,16.35639849
+2012,sub-Saharan Africa,2,17.73958316
+2012,Central America and the Caribbean,3,9.172132444
+2012,North America,4,11.55893798
+2012,South America,5,51.65876255
+2012,Central Asia,12,4.186996867
+2012,East Asia,6,236.1876645
+2012,South Asia,7,7.367533996
+2012,South East Asia,8,38.7934816
+2012,Oceania,9,25.55378354
+2012,Eastern Europe,10,7.273519922
+2012,Central and Western Europe,11,35.59319297
+2013,North Africa,1,17.97333446
+2013,sub-Saharan Africa,2,19.25469289
+2013,Central America and the Caribbean,3,9.738529269
+2013,North America,4,932.8536237
+2013,South America,5,53.93723238
+2013,Central Asia,12,4.521872756
+2013,East Asia,6,249.6496932
+2013,South Asia,7,7.745663334
+2013,South East Asia,8,42.43288995
+2013,Oceania,9,24.86556442
+2013,Eastern Europe,10,73.55685548
+2013,Central and Western Europe,11,295.3171693
+2014,North Africa,1,19.51332975
+2014,sub-Saharan Africa,2,19.99521288
+2014,Central America and the Caribbean,3,1.324824138
+2014,North America,4,878.7933144
+2014,South America,5,54.54311262
+2014,Central Asia,12,4.524486756
+2014,East Asia,6,264.1645995
+2014,South Asia,7,74.51718988
+2014,South East Asia,8,41.87361355
+2014,Oceania,9,26.77292538
+2014,Eastern Europe,10,78.85898578
+2014,Central and Western Europe,11,292.9615232
+2015,North Africa,1,19.81229737
+2015,sub-Saharan Africa,2,18.19528823
+2015,Central America and the Caribbean,3,9.792789589
+2015,North America,4,86.49592769
+2015,South America,5,54.23344645
+2015,Central Asia,12,4.666147832
+2015,East Asia,6,281.1326424
+2015,South Asia,7,76.36874739
+2015,South East Asia,8,45.82594799
+2015,Oceania,9,29.32827717
+2015,Eastern Europe,10,84.9286567
+2015,Central and Western Europe,11,296.4999324
+2016,North Africa,1,19.83141292
+2016,sub-Saharan Africa,2,17.79547164
+2016,Central America and the Caribbean,3,1.734615513
+2016,North America,4,857.4768336
+2016,South America,5,51.56269422
+2016,Central Asia,12,4.231525638
+2016,East Asia,6,292.8662295
+2016,South Asia,7,82.99959788
+2016,South East Asia,8,46.21828464
+2016,Oceania,9,32.1386958
+2016,Eastern Europe,10,89.46494229
+2016,Central and Western Europe,11,32.83887155
+2017,North Africa,1,19.71262928
+2017,sub-Saharan Africa,2,17.16555876
+2017,Central America and the Caribbean,3,1.294264992
+2017,North America,4,852.6865235
+2017,South America,5,54.44476898
+2017,Central Asia,12,3.873854424
+2017,East Asia,6,36.19224518
+2017,South Asia,7,88.79314914
+2017,South East Asia,8,47.88789724
+2017,Oceania,9,32.22349494
+2017,Eastern Europe,10,74.16143593
+2017,Central and Western Europe,11,31.66571389
+2018,North Africa,1,18.49365518
+2018,sub-Saharan Africa,2,17.11113334
+2018,Central America and the Caribbean,3,11.14536697
+2018,North America,4,877.2236211
+2018,South America,5,55.56349799
+2018,Central Asia,12,4.153131364
+2018,East Asia,6,322.6383627
+2018,South Asia,7,92.69597873
+2018,South East Asia,8,46.35384679
+2018,Oceania,9,31.72937316
+2018,Eastern Europe,10,73.68383827
+2018,Central and Western Europe,11,321.6755462
+2019,North Africa,1,19.62848763
+2019,sub-Saharan Africa,2,17.31178575
+2019,Central America and the Caribbean,3,12.76429762
+2019,North America,4,925.4212496
+2019,South America,5,54.52283228
+2019,Central Asia,12,5.294653899
+2019,East Asia,6,339.437482
+2019,South Asia,7,98.3916613
+2019,South East Asia,8,47.39232427
+2019,Oceania,9,33.75261334
+2019,Eastern Europe,10,77.49664281
+2019,Central and Western Europe,11,337.855644
+2020,North Africa,1,2.459837836
+2020,sub-Saharan Africa,2,18.2641168
+2020,Central America and the Caribbean,3,14.8393183
+2020,North America,4,97.42638696
+2020,South America,5,54.17696259
+2020,Central Asia,12,2.553661167
+2020,East Asia,6,353.3199895
+2020,South Asia,7,98.65676765
+2020,South East Asia,8,49.21597887
+2020,Oceania,9,34.61837575
+2020,Eastern Europe,10,79.76741522
+2020,Central and Western Europe,11,357.6764254
+2021,North Africa,1,19.679845
+2021,sub-Saharan Africa,2,19.95238444
+2021,Central America and the Caribbean,3,14.44227542
+2021,North America,4,959.2561178
+2021,South America,5,53.39854643
+2021,Central Asia,12,2.557167656
+2021,East Asia,6,365.5553242
+2021,South Asia,7,98.62925386
+2021,South East Asia,8,5.394315187
+2021,Oceania,9,36.45935799
+2021,Eastern Europe,10,8.959735224
+2021,Central and Western Europe,11,37.85483312
+2022,North Africa,1,19.95842814
+2022,sub-Saharan Africa,2,19.96719963
+2022,Central America and the Caribbean,3,15.42873217
+2022,North America,4,947.9483246
+2022,South America,5,51.1515358
+2022,Central Asia,12,2.487197998
+2022,East Asia,6,375.3989658
+2022,South Asia,7,1.326872149
+2022,South East Asia,8,5.487783588
+2022,Oceania,9,36.75866618
+2022,Eastern Europe,10,134.7151586
+2022,Central and Western Europe,11,38.69879587
+2023,North Africa,1,27.51476264
+2023,sub-Saharan Africa,2,2.963636239
+2023,Central America and the Caribbean,3,15.41214149
+2023,North America,4,972.1787214
+2023,South America,5,52.1678993
+2023,Central Asia,12,2.423867677
+2023,East Asia,6,41.24862669
+2023,South Asia,7,1.472492396
+2023,South East Asia,8,52.51968316
+2023,Oceania,9,36.48784314
+2023,Eastern Europe,10,179.2364588
+2023,Central and Western Europe,11,412.2696686
+2024,North Africa,1,3.273386157
+2024,sub-Saharan Africa,2,2.387918122
+2024,Central America and the Caribbean,3,24.22249795
+2024,North America,4,135.5185623
+2024,South America,5,52.72619894
+2024,Central Asia,12,1.863288423
+2024,East Asia,6,429.1622313
+2024,South Asia,7,11.39875885
+2024,South East Asia,8,57.32561433
+2024,Oceania,9,37.41417757
+2024,Eastern Europe,10,221.5164233
+2024,Central and Western Europe,11,472.3198989
+2025,North Africa,1,33.87628366
+2025,sub-Saharan Africa,2,21.51889528
+2025,Central America and the Caribbean,3,17.57724625
+2025,North America,4,966.6921529
+2025,South America,5,54.52529557
+2025,Central Asia,12,2.838914396
+2025,East Asia,6,46.91351265
+2025,South Asia,7,11.24572176
+2025,South East Asia,8,66.58752394
+2025,Oceania,9,38.34723172
+2025,Eastern Europe,10,244.678239
+2025,Central and Western Europe,11,546.8384524
