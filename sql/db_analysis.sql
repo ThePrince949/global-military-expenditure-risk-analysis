@@ -1,7 +1,5 @@
 
 
-USE military_expenditures;
-
 
 -------------------------------- Regional Analysis (Macro-Level) -------------------------------------
 
