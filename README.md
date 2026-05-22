@@ -2,12 +2,15 @@
 
 
 **Project Overview:**
+
 This project is a critical analysis of the Stockholm International Peace Research Institute (SIPRI) Military Expenditure Database. It aims to uncover insights and trends related to regional, subregional, and national military expenditure using analytical tools such as Excel, SQL, and Power BI.
 
 **Dashboard Preview:**
+
 ![Dashboard](dashboard/military_expenditures_dashboard.jpg)
 
 **Project Objectives:**
+
 The main objectives of this project include:
 * Analyze global military expenditure trends
 * Identify regional and subregional accelerations in military expenditure
@@ -15,6 +18,7 @@ The main objectives of this project include:
 * Display key insights and trends in an analytical and dynamic dashboard
 
 **Tools \& Technologies:**
+
 Key tools and technologies used in analysis include:
 * Excel
 * Power Query
@@ -23,6 +27,7 @@ Key tools and technologies used in analysis include:
 * SIPRI Military Expenditure Database
   
 **Project Workflow:**
+
 The project began with the raw SIPRI Military Expenditure dataset, following that:
 * Power Query cleaning and transformation
 * Separation of tables into individual CSV files
@@ -32,13 +37,16 @@ The project began with the raw SIPRI Military Expenditure dataset, following tha
 * Microsoft Word brief/report of analysis
 
 **Database Structure:**
+
 ![Database](sql/military_expenditures_db_diagram.jpg)
 
 **Key Analytical Techniques:**
+
 Excel:
 * Table
 * Power Query
 * Conditional formatting (Heatmaps)
+
 SQL:
 * Relational database design (PKs, FKs, ALTER)
 * Common table expressions (CTEs)
@@ -47,6 +55,7 @@ SQL:
 * CASE statements
 * Conditional aggregation
 * YoY growth calculations
+
 Power BI:
 * Conditional formatting
 * KPI development
